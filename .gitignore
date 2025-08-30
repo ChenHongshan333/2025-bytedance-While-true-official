@@ -1,0 +1,8 @@
+.env
+data
+exp/inference copy.sh
+exp/inference.sh
+results
+__pycache__
+.DS_Store
+embeddings

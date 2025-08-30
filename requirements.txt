@@ -1,0 +1,33 @@
+# Review Classification System Dependencies
+
+# Core dependencies
+openai>=1.0.0
+click>=8.0.0
+python-dotenv>=1.0.0
+pandas>=2.0.0
+requests>=2.25.0
+numpy>=1.21.0
+plotly
+# Visualization
+seaborn
+matplotlib
+<<<<<<< HEAD
+torch 
+transformers 
+datasets 
+evaluate 
+=======
+
+# LLM backends
+vllm
+
+# COT RAG dependencies
+faiss-cpu>=1.7.0
+
+# BERT fine-tuning dependencies (optional)
+torch
+transformers
+datasets
+evaluate
+>>>>>>> 8e1f867975408406ed265b28fca4591110de2735
+scikit-learn
